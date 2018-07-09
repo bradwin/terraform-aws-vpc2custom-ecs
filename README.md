@@ -1,4 +1,5 @@
 # Terraforming 3-Tier VPC on AWS
+###### Author: Bradwin Cruz
 
 This demonstrates how to create a multi-AZ 3-tier VPC on AWS. The architecture is based on AWS VPC Scenario 2 but with 3 subnets: 
 
